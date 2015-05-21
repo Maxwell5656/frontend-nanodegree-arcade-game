@@ -8,4 +8,6 @@ for self-checking their submission.
 
 To run the game, download it and open index.html in your browser.
 
+Use the arrow keys to control. Your goal is to make it to the water and avoid the bugs. Good luck!
+
 My resourses are the Mozilla Developer Network and stackoverflow.com
